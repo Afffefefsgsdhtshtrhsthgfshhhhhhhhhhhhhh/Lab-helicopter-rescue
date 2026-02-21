@@ -16,3 +16,5 @@ Features:
 Soldier pickup (max 3)
 Hospital delivery system
  Sound effects and background music
+add audio system: bgm, pickup, deliver, win, lose
+fix trigger/collision issues and UI references
