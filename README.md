@@ -13,3 +13,4 @@ Features:
 - Sound effects and background music
 
 -// Minor update for version control test
+Soldier pickup (max 3)
