@@ -15,3 +15,4 @@ Features:
 -// Minor update for version control test
 Soldier pickup (max 3)
 Hospital delivery system
+ Sound effects and background music
